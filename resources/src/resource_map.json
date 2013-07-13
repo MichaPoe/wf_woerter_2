@@ -1,0 +1,26 @@
+{
+	"friendlyVersion": "0.4",
+	"versionDefName": "WF_WOERTER_2",
+	"media": [
+		{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/wf_woerter_2_icon.png"
+		},
+	 	{
+			"type": "font",
+			"defName": "FONT_DIGITAL_24",
+			"file": "fonts/digital.ttf"
+		},
+	 	{
+			"type": "font",
+			"defName": "FONT_DIGITAL_32",
+			"file": "fonts/digital.ttf"
+		},
+	 	{
+			"type": "font",
+			"defName": "FONT_DIGITAL_40",
+			"file": "fonts/digital.ttf"
+		}
+	]
+}
